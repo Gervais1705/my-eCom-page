@@ -1,0 +1,33 @@
+.watch-dot-1{
+    border: 3px solid white;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    margin-top: 23px;
+    
+    
+}
+.watch-dot-2{
+    border: 3px solid white;
+    border-radius: 3px;
+}
+.clock-style{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.time-style{
+    font-size: 42px;
+    font-weight: 600;
+    padding: 10px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+@media (max-width: 576px) {
+    .clock-style{
+        padding: 20px;
+    }
+}

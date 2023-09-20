@@ -1,0 +1,32 @@
+.newsletter-style{
+    background-color: #f09322b9;
+    color: black;
+    border-radius: 10px;
+}
+.text-part-style{
+    padding: 5rem;
+    padding-left: 7rem;
+}
+.newsletter-btn{
+    background-color: #F09522;
+    color: white;
+    border: 1px solid #F09522;
+}
+.newsletter-btn:hover{
+    background-color: white;
+    color: #F09522;
+    border: 1px solid #F09522;
+}
+.newsletter-img{
+    border-radius: 10px;
+}
+.newsletter-img-1{
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+@media (max-width:576px) {
+    .text-part-style{
+        padding: 1rem;
+        padding-left: 1rem;
+    }
+}

@@ -1,0 +1,12 @@
+.line-style{
+    width: 30%;
+    height: 1px;
+    border-top: 1px solid black;
+}
+.social-btn{
+    cursor: pointer;
+}
+.social-btn:hover{
+    transform: scale(1.08);
+    transition: all .5s ease-in-out;
+}

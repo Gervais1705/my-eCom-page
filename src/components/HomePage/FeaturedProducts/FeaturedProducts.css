@@ -1,0 +1,21 @@
+.featured{
+    height: 408px;
+}
+
+@media (max-width:576px) {
+    .featured{
+        height: 270px;
+    }
+    .pic-1{
+        height: 285px;
+    }
+    .pic-2{
+        height: 270px;
+    }
+    .pic-3{
+        height: 270px;
+    }
+    .pic-4{
+        height: 270px;
+    }
+}

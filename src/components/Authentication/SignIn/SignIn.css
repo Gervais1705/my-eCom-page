@@ -1,0 +1,37 @@
+.signin-style{
+    width: 30%;
+    margin-bottom: 40px;
+}
+.signin-btn{
+    width: 100%;
+    background-color: #F09522;
+    color: white;
+    border: 1px solid #F09522;
+    border-radius: 5px;
+    padding: 10px;
+}
+.signin-btn:hover{
+    background-color: white;
+    color: #F09522;
+}
+.login-footer-para{
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.login-para-div{
+    height: 13px;
+    border: 1px solid black;
+}
+.forgot-pass{
+    color: rgb(20, 150, 215);
+    cursor: pointer;
+}
+.forgot-pass:hover{
+    text-decoration: underline;
+}
+@media (max-width:576px) {
+    .signin-style{
+        width: 95%;
+        margin-bottom: 40px;
+    }
+}

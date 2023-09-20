@@ -1,0 +1,27 @@
+.footer-style{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    padding-bottom:10px;
+    
+}
+.footer-link-style{
+    padding: 30px;
+}
+.footer-line{
+    width: 90%;
+    border: 1px solid white;
+}
+
+@media (max-width:576px) {
+    .footer-header{
+        font-weight: 300;
+        font-size: 18px;
+    }
+    .footer-link-style{
+        padding: 10px;
+    }
+    .first-col-3{
+        margin-top: 20px;
+    }
+}

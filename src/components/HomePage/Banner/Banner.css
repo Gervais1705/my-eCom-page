@@ -1,0 +1,37 @@
+.banner-para{
+    padding-right: 5rem;
+}
+.shop-now-btn{
+    background-color: #F09522;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid #F09522;
+    border-radius: 3px;
+}
+.shop-now-btn:hover{
+    background-color: white;
+    color: #F09522;
+    border: 1px solid #F09522;
+}
+.shirt-style{
+    width: 218px;
+    height: 280px;
+    margin-right: -50px;
+    z-index: 1;
+}
+.model-style{
+    width: 340px;
+    height: 450px;
+    z-index: 0;
+}
+@media (max-width: 576px) {
+    .shirt-style{
+        height: 100%;
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .model-style{
+        width: 100%;
+    }
+}

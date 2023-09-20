@@ -1,0 +1,26 @@
+[
+    {   
+        "key":1,
+        "title": "FAST DELIVERY",
+        "para": "Lorem Ipsum is simply dummy text ",
+        "image": "https://i.ibb.co/kqhpXMf/tracking-1.png"
+    },
+    {
+        "key":2,
+        "title": "FAST DELIVERY",
+        "para": "Lorem Ipsum is simply dummy text ",
+        "image": "https://i.ibb.co/kqhpXMf/tracking-1.png"
+    },
+    {
+        "key":3,
+        "title": "FAST DELIVERY",
+        "para": "Lorem Ipsum is simply dummy text ",
+        "image": "https://i.ibb.co/kqhpXMf/tracking-1.png"
+    },
+    {
+        "key":4,
+        "title": "FAST DELIVERY",
+        "para": "Lorem Ipsum is simply dummy text ",
+        "image": "https://i.ibb.co/kqhpXMf/tracking-1.png"
+    }
+]

@@ -1,0 +1,50 @@
+.first-collection{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url("../../../images/collection/man.jpg");
+    background-size: 100% 100%;
+    background-position: center;
+    margin: 10px 5px;
+    padding:50px 20px 30px 20px;
+}
+.collection-style{
+    border: 8px solid white;
+    padding:200px 32px 15px 32px ;
+}
+.collect-header{
+    text-align: start;
+    font-size: 34px;
+    color: white;
+    margin-bottom: 5px;
+}
+.collect-bold{
+    background-color: #F09522;
+    padding: 5px;
+    padding-top: 8px;
+    font-weight: bold;
+
+}
+.check-collect{
+    color: white;
+    font-size: 18px;
+    text-align: start;
+}
+.check-line{
+    width: 45px;
+    border: 2px solid white;
+    margin-bottom: 12px;
+    margin-left: 8px;
+}
+.second-collection{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url("../../../images/collection/woman.jpg");
+    background-size: 100% 100%;
+    background-position: center;
+    margin: 10px 5px;
+    padding:50px 20px 30px 20px;
+}
+
+.third-collection{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url("../../../images/collection/man-2.jpg");
+    background-size: 100% 100%;
+    background-position: center;
+    margin: 10px 5px;
+    padding:50px 20px 30px 20px;
+}
