@@ -9,7 +9,11 @@ const StatusBar = () => {
         <div className='statusbar-style'>
             <Container>
                 <div className='d-flex justify-content-between align-items-center flex-wrap'>
+<<<<<<< HEAD
                     <div className='fw-bold m-3'>Free shipping on all US orders!</div>
+=======
+                    <div className='fw-bold m-3'>Free shipping on all USA orders!</div>
+>>>>>>> 7a4f0bfd733b465149527b9345d7a3f714c5daa6
                     <div className='d-flex justify-content-evenly align-items-center m-3'>
                         <div className=''><img src={facebook} alt="" /></div>
                         <div className='ms-3 me-3'><img src={insta} alt="" /></div>

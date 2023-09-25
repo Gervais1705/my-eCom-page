@@ -9,7 +9,11 @@ const Footer = () => {
                     <Row>
                         <Col xs={12} md={4} lg={3}>
                             <div className='d-flex flex-column justify-content-center align-items-start first-col p-2'>
+<<<<<<< HEAD
                                 <h5 className='fw-bold footer-header'>FashionMania@</h5>
+=======
+                                <h5 className='fw-bold footer-header'>FashionMania</h5>
+>>>>>>> 7a4f0bfd733b465149527b9345d7a3f714c5daa6
                                 <p className='text-start'><small>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</small></p>
                             </div>
                         </Col>

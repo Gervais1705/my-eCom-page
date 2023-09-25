@@ -1,7 +1,11 @@
 import React from "react";
 import { Button, Col, Container, Form, Image, InputGroup, Row } from "react-bootstrap";
 import './ConnectUs.css';
+<<<<<<< HEAD
 import subsImage from '../../../images/subsImage.jpg';
+=======
+import {subsImage} from '../../../images/subsImage.jpg';
+>>>>>>> 7a4f0bfd733b465149527b9345d7a3f714c5daa6
 const ConnectUs = () => {
   return (
     <div>
