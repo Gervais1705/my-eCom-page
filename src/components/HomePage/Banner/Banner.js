@@ -1,8 +1,8 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import "./Banner.css";
-import shirt from "../../../images/banner/Rectangle 4.png";
-import model from "../../../images/banner/Rectangle 3.png";
+import shirt from "../../../images/banner/Rectangle 4.jpg";
+import model from "../../../images/banner/Rectangle 3.jpg";
 import Countdown from "react-countdown";
 import { renderer } from "./Timer";
 const Banner = () => {
