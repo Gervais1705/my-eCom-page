@@ -23,11 +23,8 @@ const Header = () => {
       <Navbar bg="light" expand="lg">
         <Container>
           <Navbar.Brand href="#home" className="fw-bold fs-3">
-<<<<<<< HEAD
+
             FashionMani@
-=======
-            FashionMania
->>>>>>> 7a4f0bfd733b465149527b9345d7a3f714c5daa6
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
